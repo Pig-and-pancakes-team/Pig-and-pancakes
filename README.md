@@ -23,3 +23,4 @@ Running away from them, we meet the residents of the Golden City asking for your
                                                   Made in godot engiene 4!
 
                                               Good game! Pig and pancakes team.
+                        https://github.com/Pig-and-pancakes-team/Pig-and-pancakes/releases/tag/v5.9-beta
