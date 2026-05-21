@@ -1,7 +1,7 @@
 # Pig-and-pancakes
 This is my first computer game!
 
-*👉 Created new version in new release!*
+*👉 Created new version in new release! New version: https://github.com/Pig-and-pancakes-team/Pig-and-pancakes/releases/tag/v6.0-beta*
 
 In it, you control a pig who works as a courier. 
 That day, he received a new order, a stack of pancakes with chocolate paste and butter on top. 
